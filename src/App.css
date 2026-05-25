@@ -1,0 +1,50 @@
+*{
+    padding: 5px 10px
+}
+
+.form-input{
+    gap: 10px;
+    display: flex;
+}
+
+.title{
+    border-radius: 5px;
+}
+
+.nominal{
+    border-radius: 5px;
+}
+
+.date{
+    border-radius: 5px;
+}
+
+.button-save{
+    background-color: aqua;
+    width : 100px;
+    border-radius: 10px;
+}
+
+.list-finance{
+    display : flex;
+    align-items: center;
+}
+
+.pemasukan { 
+    color:green
+}
+
+.pengeluaran {
+    color:red
+}
+
+.delBut{
+    background-color: rgb(34, 5, 167);
+    margin-left: 10px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+}
