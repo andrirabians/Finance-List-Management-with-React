@@ -16,8 +16,8 @@ Personal Finance Management App built with React. Users can add income and expen
 
 ## 🛠️ Built With
 
-- React (useState Hook)
-- JavaScript (ES6+)
+- React (useState)
+- JavaScript
 - HTML5 Form Handling
 - CSS
 
