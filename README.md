@@ -1,16 +1,28 @@
-# React + Vite
+# Finance-List-Management-with-React
+Personal Finance Management App built with React. Users can add income and expense transactions, record nominal values and dates, and view transaction history with conditional styling based on transaction type.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add financial transactions (income & expense)
+- Input title, nominal amount, date, and transaction type
+- Automatic date formatting (Indonesian format)
+- Conditional styling for income and expense
+- Delete transaction from list
+- Empty state message when no data exists
+- Auto reset form after submit
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
 
-## Expanding the ESLint configuration
+- React (useState Hook)
+- JavaScript (ES6+)
+- HTML5 Form Handling
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+<img width="2326" height="951" alt="image" src="https://github.com/user-attachments/assets/bd0f72e7-7933-40c2-86d9-e7da6f2fd319" />
+>>>>>>> 17c29c4f70cb62b668d0e991b317e30cbb74b3c5
