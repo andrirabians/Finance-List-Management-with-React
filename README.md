@@ -25,4 +25,3 @@ Personal Finance Management App built with React. Users can add income and expen
 
 ## 📸 Preview
 <img width="2326" height="951" alt="image" src="https://github.com/user-attachments/assets/bd0f72e7-7933-40c2-86d9-e7da6f2fd319" />
->>>>>>> 17c29c4f70cb62b668d0e991b317e30cbb74b3c5
